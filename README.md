@@ -1,3 +1,3 @@
-Portfolio application based on Python Django framework
+Portfolio application based on Django framework
 
 MySQLlite database structure by using SQLAlchemy ORM 
